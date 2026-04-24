@@ -52,6 +52,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0200-number-of-islands](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -63,6 +64,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0202-happy-number](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
@@ -88,11 +90,13 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 ## Math
 | Problem Name | Difficulty |
