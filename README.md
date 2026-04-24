@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0542-01-matrix](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0542-01-matrix/) | Medium |
@@ -92,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0542-01-matrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
