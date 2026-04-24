@@ -53,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -65,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
@@ -97,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0721-accounts-merge](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -106,4 +109,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0202-happy-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
