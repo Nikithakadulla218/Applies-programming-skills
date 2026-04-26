@@ -68,6 +68,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0322-coin-change/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0542-01-matrix/) | Medium |
@@ -192,6 +193,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
