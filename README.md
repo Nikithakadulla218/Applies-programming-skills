@@ -7,6 +7,7 @@
 | [0200-number-of-islands](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0721-accounts-merge/) | Medium |
@@ -205,4 +206,12 @@
 | [0046-permutations](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0078-subsets/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
