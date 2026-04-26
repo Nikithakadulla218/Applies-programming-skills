@@ -134,6 +134,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0202-happy-number/) | Easy |
@@ -239,4 +240,12 @@
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
