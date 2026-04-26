@@ -8,6 +8,7 @@
 | [0200-number-of-islands](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -212,10 +213,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
