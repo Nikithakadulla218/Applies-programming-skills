@@ -4,6 +4,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
@@ -18,6 +19,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
@@ -209,9 +211,11 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
