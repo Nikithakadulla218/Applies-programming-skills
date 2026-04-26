@@ -8,6 +8,7 @@
 | [0200-number-of-islands](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -214,6 +215,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -221,11 +223,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nikithakadulla218/Applies-programming-skills/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
